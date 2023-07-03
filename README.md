@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joaohjari
+- 👀 I’m interested in Electronics, Programming and music
+- 🌱 I’m currently learning Low Level Arduino
+- 💞️ I’m looking to collaborate on Hardware Projects
+- 📫 You can reach me at joaohjari@gmail.com
